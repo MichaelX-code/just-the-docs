@@ -153,6 +153,13 @@
     }
   }
 
+  blockquote {
+    font-style: italic;
+    margin: 1.5em 0;
+    padding: 0 1.3em 0 1.3em;
+    border-left: $link-color 0.2em solid;
+  }
+
   dd,
   ol,
   ul {
